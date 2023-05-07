@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d7bed13c.css",
+    "main.js": "/static/js/main.d044d403.js",
+    "static/media/free-icon-storm-4837867.png": "/static/media/free-icon-storm-4837867.017c8f1849ff13356f40.png",
+    "static/media/free-icon-rain-4837776.png": "/static/media/free-icon-rain-4837776.069e55a4c77c3d17fa3e.png",
+    "static/media/free-icon-blizzard-4837621.png": "/static/media/free-icon-blizzard-4837621.6fd929ddeda16e9cce7f.png",
+    "static/media/free-icon-moon-4837721.png": "/static/media/free-icon-moon-4837721.b029f0e94861402723f2.png",
+    "static/media/free-icon-thunder-4837904.png": "/static/media/free-icon-thunder-4837904.dbf5a5fc97d272b9d591.png",
+    "static/media/free-icon-cloudy-day-4837661.png": "/static/media/free-icon-cloudy-day-4837661.022a686dad2a185277e6.png",
+    "static/media/free-icon-moon-cloudy-4837714.png": "/static/media/free-icon-moon-cloudy-4837714.66cf643bb5e057780d50.png",
+    "static/media/free-icon-cloudy-4837668.png": "/static/media/free-icon-cloudy-4837668.fdb800d3492f00f24417.png",
+    "static/media/free-icon-bright-4837637.png": "/static/media/free-icon-bright-4837637.1ee6b8eda651868e0b51.png",
+    "index.html": "/index.html",
+    "main.d7bed13c.css.map": "/static/css/main.d7bed13c.css.map",
+    "main.d044d403.js.map": "/static/js/main.d044d403.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7bed13c.css",
+    "static/js/main.d044d403.js"
+  ]
+}
