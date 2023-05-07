@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/weather_forecast/static/css/main.d7bed13c.css",
-    "main.js": "/weather_forecast/static/js/main.d0d28af7.js",
+    "main.js": "/weather_forecast/static/js/main.44a15c5e.js",
     "static/media/free-icon-storm-4837867.png": "/weather_forecast/static/media/free-icon-storm-4837867.017c8f1849ff13356f40.png",
     "static/media/free-icon-rain-4837776.png": "/weather_forecast/static/media/free-icon-rain-4837776.069e55a4c77c3d17fa3e.png",
     "static/media/free-icon-blizzard-4837621.png": "/weather_forecast/static/media/free-icon-blizzard-4837621.6fd929ddeda16e9cce7f.png",
@@ -13,10 +13,10 @@
     "static/media/free-icon-bright-4837637.png": "/weather_forecast/static/media/free-icon-bright-4837637.1ee6b8eda651868e0b51.png",
     "index.html": "/weather_forecast/index.html",
     "main.d7bed13c.css.map": "/weather_forecast/static/css/main.d7bed13c.css.map",
-    "main.d0d28af7.js.map": "/weather_forecast/static/js/main.d0d28af7.js.map"
+    "main.44a15c5e.js.map": "/weather_forecast/static/js/main.44a15c5e.js.map"
   },
   "entrypoints": [
     "static/css/main.d7bed13c.css",
-    "static/js/main.d0d28af7.js"
+    "static/js/main.44a15c5e.js"
   ]
 }
