@@ -1,0 +1,33 @@
+.seatch-coordinates {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  &__input {
+    padding: 5px 10px 5px 10px;
+    margin-top: 30px;
+    width: 300px;
+    height: 30px;
+    background-color: #e7e7e7;
+    border: 0 solid transparent;
+    border-radius: 10px;
+    outline: none;
+    font-size: 15px;
+    line-height: 18px;
+    &::placeholder {
+      color: rgb(146, 146, 146);
+    }
+  }
+  &__dropdown {
+    padding: 0;
+    min-width: 320px;
+    margin: 5px 0 0;
+    border: 1px solid #bebebe;
+    border-radius: 5px;
+    list-style: none;
+    display: none;
+    &_active {
+      display: flex;
+      flex-direction: column;
+    }
+  }
+}
