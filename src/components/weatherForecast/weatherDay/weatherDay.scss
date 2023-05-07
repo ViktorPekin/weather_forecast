@@ -1,0 +1,8 @@
+.weather-day {
+  list-style: none;
+  margin: 0 20px 0 20px;
+  &__img {
+    width: 100px;
+    height: 100px;
+  }
+}
